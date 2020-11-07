@@ -3,3 +3,5 @@
 # 2 range(start, stop, step)
 
 # we can use range in number of different ways
+
+print(list(range(0, 20, 2)))
